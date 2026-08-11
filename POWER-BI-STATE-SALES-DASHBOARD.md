@@ -54,3 +54,6 @@ The dashboard provides an interactive view of sales performance and helps identi
 ## Portfolio Note
 
 This project demonstrates practical Power BI dashboard development, data visualization and business-oriented data analysis.
+## Dashboard Preview
+
+[View Dashboard Screenshot](STATE%20SALES%20DASHBOARD.png)
