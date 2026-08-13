@@ -1,99 +1,104 @@
 # KUWAR ABHISHEK
 
-## Government IT Professional | Data Analytics | Power BI | AI & Data Automation
+### Government IT Professional | Data Analytics | Power BI | Excel | SQL | Python | AI & Data Automation
 
-I am a Government IT Professional with experience in MIS reporting, data monitoring, Power BI/Excel dashboards and ICT project management.
+I am a Government IT Professional with experience in MIS reporting, data monitoring, ICT project management, and data-driven reporting solutions.
 
-## Professional Experience
-
-- **Government Programmer** – Revenue Department, Commissioner Office, Gaya, Bihar
-- **District Project Manager (ICT)** – Bihar Education Project Council
-- **Founder / Digital Consultant** – Fortune 360
-- Government MIS Monitoring across 5 Districts
-- ICT Project Monitoring across 100+ Schools and 7 Blocks
-- 400+ Businesses Published on Google
-
-## Core Skills
-
-- Power BI
-- Advanced Excel
-- Data Analytics
-- MIS Reporting
-- Dashboard Development
-- Data Visualization
-- Google Sheets
-- SQL
-- Python
-- AI & Data Automation
-- Project Management
-- Digital Marketing
-
-## Education
-
-- **MBA – Marketing & HR** – Rajasthan University
-- **Graduation – Sociology** – Magadh University, 2003
-- **Intermediate** – BSEB/BIEC, Patna, 1999
-- **Matriculation** – BSEB, Patna, 1996
-
-## Portfolio Projects
-
-### Power BI State Sales Dashboard
-Interactive Power BI dashboard for analyzing sales performance, revenue, regional performance and business KPIs.
-
-### Excel Sales Dashboard
-Advanced Excel dashboard using Pivot Tables, formulas, charts, VLOOKUP/INDEX-MATCH and conditional formatting.
-
-### Data Analytics Projects
-Practical analytics projects focused on data cleaning, analysis, visualization, reporting and business insights.
-
-## What I Do
-
-I work at the intersection of **IT, Data Analytics, Business Intelligence and Automation** to convert raw data into meaningful business insights and actionable dashboards.
-
-## Professional Focus
-
-- Data Analytics
-- Business Intelligence
-- Power BI Dashboard Development
-- MIS & Reporting Automation
-- Excel Automation
-- Data Visualization
-- AI & Data Automation
-
-## GitHub Portfolio
-
-My data analytics, Power BI, SQL, Python and AI automation projects are available in this repository.
-
-**GitHub:**  
-https://github.com/abhishekkumwar-bot/Data-analytics-portfolio
+I am building expertise in Data Analytics, Power BI, Advanced Excel, SQL, Python, and AI-powered data automation to create practical business and management insights.
 
 ---
 
-### About This Repository
+## 👨‍💻 Professional Profile
 
-This repository contains my professional data analytics and technology portfolio, including Power BI dashboards, Excel analytics, data visualization and automation projects.
+- Government IT Professional with experience in ICT project management and data monitoring
+- Experience in MIS reporting and management information systems
+- Hands-on experience with Excel-based data analysis and dashboards
+- Power BI dashboard development and business reporting
+- Data cleaning, analysis, visualization, and reporting
+- Interest in SQL, Python, AI, and data automation
+- Experience working with government/project-level data and reporting
 
-**Thank you for visiting my portfolio!**
-## Portfolio Projects
+---
 
-### 1. Power BI State Sales Dashboard
-Interactive Power BI dashboard for analyzing sales performance, revenue, regional performance, quantity trends and business KPIs.
+## 🛠️ Technical Skills
 
-[View Power BI Dashboard](STATE%20SALES%20DASHBOARD.png)
+### Data Analytics
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- MIS Reporting
+- KPI Reporting
+- Business Reporting
 
-### 2. Advanced Excel Sales Dashboard
-Advanced Excel dashboard using Pivot Tables, formulas, charts, VLOOKUP/INDEX-MATCH and conditional formatting.
-
-[Download Advanced Excel Dashboard](Advanced_Excel_Sales_Dashboard.xlsx)
-
-### 3. Data Analytics Projects
-Practical analytics projects focused on data cleaning, analysis, visualization, reporting and business insights.
-
-### Tools & Technologies
-- Microsoft Power BI
+### Microsoft Excel
 - Advanced Excel
+- Pivot Tables
+- VLOOKUP
+- INDEX-MATCH
+- Conditional Formatting
+- Dashboard Development
+- Charts & Data Visualization
+
+### Power BI
+- Dashboard Development
+- KPI Dashboards
+- Sales Analysis
+- Data Visualization
+- Business Intelligence Reporting
+
+### Programming & Data
 - SQL
 - Python
-- Data Analytics
+- Data Automation
+- AI-assisted Analytics
+
+---
+
+## 📊 Portfolio Projects
+
+### 1. Advanced Excel Sales Dashboard
+
+An interactive Excel-based sales analytics dashboard designed to analyze sales performance across different states, regions, products, quantity, revenue, and order metrics.
+
+**Key Features:**
+- Total Revenue
+- Total Quantity
+- Total Orders
+- Average Order Value
+- Revenue by State
+- Revenue by Product
+- Advanced Excel analysis
+- VLOOKUP
+- INDEX-MATCH
+- Conditional Formatting
+- Dashboard visualization
+
+[View Excel Project](./Advanced_Excel_Sales_Dashboard.xlsx)
+
+---
+
+### 2. Power BI State Sales Dashboard
+
+A Power BI sales dashboard project focused on analyzing sales performance across Indian states and presenting insights through interactive business intelligence visualizations.
+
+**Key Features:**
+- State-wise sales analysis
+- Revenue analysis
+- Sales performance visualization
+- Business intelligence dashboard
+- Interactive Power BI reporting
+
+[View Project Documentation](./POWER-BI-STATE-SALES-DASHBOARD.md)
+
+---
+
+## 📈 What I Can Work On
+
+- Data Analysis & Reporting
+- MIS Dashboards
+- Excel Automation
+- Power BI Dashboards
+- Sales & Business Analytics
+- KPI Reporting
 - Data Visualization
-- AI & Data Automation
+- SQL-based
