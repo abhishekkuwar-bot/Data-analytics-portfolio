@@ -74,3 +74,26 @@ https://github.com/abhishekkumwar-bot/Data-analytics-portfolio
 This repository contains my professional data analytics and technology portfolio, including Power BI dashboards, Excel analytics, data visualization and automation projects.
 
 **Thank you for visiting my portfolio!**
+## Portfolio Projects
+
+### 1. Power BI State Sales Dashboard
+Interactive Power BI dashboard for analyzing sales performance, revenue, regional performance, quantity trends and business KPIs.
+
+[View Power BI Dashboard](STATE%20SALES%20DASHBOARD.png)
+
+### 2. Advanced Excel Sales Dashboard
+Advanced Excel dashboard using Pivot Tables, formulas, charts, VLOOKUP/INDEX-MATCH and conditional formatting.
+
+[Download Advanced Excel Dashboard](Advanced_Excel_Sales_Dashboard.xlsx)
+
+### 3. Data Analytics Projects
+Practical analytics projects focused on data cleaning, analysis, visualization, reporting and business insights.
+
+### Tools & Technologies
+- Microsoft Power BI
+- Advanced Excel
+- SQL
+- Python
+- Data Analytics
+- Data Visualization
+- AI & Data Automation
