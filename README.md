@@ -2,18 +2,18 @@
 
 ## Government IT Professional | Data Analytics | Power BI | AI & Data Automation
 
-I am a Government IT Professional with experience in MIS reporting, data monitoring, Power BI/Excel dashboards and ICT Project Management.
+I am a Government IT Professional with experience in MIS reporting, data monitoring, Power BI/Excel dashboards and ICT project management.
 
-### Professional Experience
+## Professional Experience
 
-- Government Programmer — Revenue Department, Commissioner Office, Gaya
-- District Project Manager (ICT) — Bihar Education Project Council
-- Founder / Digital Consultant — Fortune 360
-- 5 Districts Government MIS Monitoring
-- 100 Schools & 7 Blocks ICT Project Monitoring
+- **Government Programmer** – Revenue Department, Commissioner Office, Gaya, Bihar
+- **District Project Manager (ICT)** – Bihar Education Project Council
+- **Founder / Digital Consultant** – Fortune 360
+- Government MIS Monitoring across 5 Districts
+- ICT Project Monitoring across 100+ Schools and 7 Blocks
 - 400+ Businesses Published on Google
 
-### Core Skills
+## Core Skills
 
 - Power BI
 - Advanced Excel
@@ -22,43 +22,55 @@ I am a Government IT Professional with experience in MIS reporting, data monitor
 - Dashboard Development
 - Data Visualization
 - Google Sheets
+- SQL
+- Python
 - AI & Data Automation
-- ICT Project Management
-- Project Monitoring
-- Stakeholder Coordination
-- Networking & Cyber Security Fundamentals
+- Project Management
+- Digital Marketing
 
-### Portfolio Projects
+## Education
 
-- Power BI Financial Dashboard
-- State Sales Analytics Dashboard
-- Excel & MIS Reporting Projects
-- Data Analytics Projects
-- SQL Projects
-- Python Data Analysis Projects
-- AI & Automation Projects
+- **MBA – Marketing & HR** – Rajasthan University
+- **Graduation – Sociology** – Magadh University, 2003
+- **Intermediate** – BSEB/BIEC, Patna, 1999
+- **Matriculation** – BSEB, Patna, 1996
 
-### Certifications
+## Portfolio Projects
 
-- Certified AI Data & Automation Consultant (CADAC™)
-- Google Project Management — Coursera
-- Advanced Data Analytics
-- Data Science
-- Power BI
-- Networking
-- Cyber Security
+### Power BI State Sales Dashboard
+Interactive Power BI dashboard for analyzing sales performance, revenue, regional performance and business KPIs.
 
-### Education
+### Excel Sales Dashboard
+Advanced Excel dashboard using Pivot Tables, formulas, charts, VLOOKUP/INDEX-MATCH and conditional formatting.
 
-- MBA — Marketing & HR, Rajasthan University — 60%
-- Bachelor’s Degree — Sociology, Magadh University — 66%
-- Intermediate — BIEC Patna, 1999 — 66%
-- Matriculation — BSEB Patna, 1996 — 49%
+### Data Analytics Projects
+Practical analytics projects focused on data cleaning, analysis, visualization, reporting and business insights.
 
-### Career Focus
+## What I Do
 
-MIS Consultant | Data Analyst | Power BI Developer | IT Consultant | Technical Consultant | ICT Project Coordinator | Data & Automation Consultant
+I work at the intersection of **IT, Data Analytics, Business Intelligence and Automation** to convert raw data into meaningful business insights and actionable dashboards.
+
+## Professional Focus
+
+- Data Analytics
+- Business Intelligence
+- Power BI Dashboard Development
+- MIS & Reporting Automation
+- Excel Automation
+- Data Visualization
+- AI & Data Automation
+
+## GitHub Portfolio
+
+My data analytics, Power BI, SQL, Python and AI automation projects are available in this repository.
+
+**GitHub:**  
+https://github.com/abhishekkumwar-bot/Data-analytics-portfolio
 
 ---
 
-This repository contains my professional data analytics and technology portfolio.
+### About This Repository
+
+This repository contains my professional data analytics and technology portfolio, including Power BI dashboards, Excel analytics, data visualization and automation projects.
+
+**Thank you for visiting my portfolio!**
